@@ -1,7 +1,7 @@
 #!/usr/bin
 #Copyright 2021 AllHackingTools
 #Written by : Misha Korzhik
-#Github     : http://github.com/mishakorzik
+#Github     : http://github.com/mishakorzik/TermuxTheme
 
 import requests
 import os
